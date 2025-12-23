@@ -158,3 +158,6 @@ Let’s do this together!
 </div>
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
+
+
+echo $(htpasswd -nbB admin "uibgfwdeyug76i5#@#") | sed -e s/\\$/\\$\\$/g
